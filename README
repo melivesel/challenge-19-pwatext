@@ -1,1 +1,17 @@
-# challenge 19 PSA Text Editor
+# challenge 19 PWA Text Editor
+
+## Description
+
+This is a text editor progressive web app that can be installed to your local computer. It logs data to the server that will persist if the window is closed, and will display if the browser disconnects from the internet. 
+## Installation
+
+The deployed page can be found on [Render](https://challenge-19-pwatext.onrender.com/). To install to your local device, click the install button on the top left corner. 
+
+## Usage
+
+This app can be used to edit data while working on a coding project. 
+
+## Credits
+
+* edEx learning materials, specifically Module 19 Mini Project
+* Xpert Learning assistant, I often run my code through to check syntax or ask for update suggestions. 
